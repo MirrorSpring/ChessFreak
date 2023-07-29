@@ -15,3 +15,7 @@ Spring BOOT 사용
 ## Backend
 - MySQL 사용
 - DB 주소는 미정
+
+## 배포
+- 기본적으로 WAR 파일로 배포(pom.xml 참고)
+- 배포 경로는 아직 미정(아직 서버도 없음)
