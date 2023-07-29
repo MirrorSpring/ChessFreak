@@ -8,3 +8,10 @@ Spring BOOT 사용
 
 ## Naming Rule
 - 이게 어디 화면에 쓰이는 건지 이름만 보고 알아볼 수 있어야 함
+
+## Frontend
+- BootStrap 패키지를 사용하지만, 디자인의 통일성을 유지할 수 있으면 직접 만들어도 무방함.
+
+## Backend
+- MySQL 사용
+- DB 주소는 미정
