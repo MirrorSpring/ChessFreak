@@ -12,6 +12,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ChessFreak</name>
 	<description>Chessfreak Website test</description>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -60,6 +61,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-configuration-processor</artifactId>
 			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-tomcat</artifactId>
+			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 
