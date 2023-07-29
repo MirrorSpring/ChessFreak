@@ -49,7 +49,7 @@ nav {
 		<header
 			class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom"
 			style="border-bottom: #ffffff !important">
-			<div class="col-md-3 mb-2 mb-md-0">
+			<div class="col-md-3 mb-2 mb-md-0" style="width:50%;">
 				<a href="/main"
 					class="d-inline-flex link-body-emphasis text-decoration-none">
 					<h3>
@@ -58,7 +58,7 @@ nav {
 				</a>
 			</div>
 
-			<div class="col-md-3 text-end">
+			<div class="col-md-3 text-end" style="width:50%">
 				<input type="text" class="form-control"
 					style="display: inline-block; width: 200px !important"
 					placeholder="검색어를 입력하세요">
